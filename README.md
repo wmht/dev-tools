@@ -11,6 +11,3 @@ sh top-cpu-memory.sh
     
     opt > 
 
-
-
-![Image text](https://raw.githubusercontent.com/weavepub/k8stools/master/img/top-cpu-memory.png)
