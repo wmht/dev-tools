@@ -4,7 +4,7 @@
 
 
 
-nexus-cli 工具下载：[github地址](https://github.com/mlabouardy/nexus-cli)
+nexus-cli 工具下载：[github地址](https://github.com/weavepub/Dev_tools/releases/tag/v1.0)
 
 github中提供的 nexus-cli 工具清理逻辑有问题，比如镜像含有如下12个tag
 
