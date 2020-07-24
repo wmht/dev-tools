@@ -10,7 +10,7 @@ vim tcping.sh
 #! /bin/bash
 
 cd /usr/local/src
-wget https://raw.githubusercontent.com/weavepub/dev_tools/master/centos/tcping/tcping.c
+wget https://raw.githubusercontent.com/wmht/dev_tools/master/centos/tcping/tcping.c
 yum install -y gcc
 gcc -o tcping tcping.c
 cp tcping /usr/bin
