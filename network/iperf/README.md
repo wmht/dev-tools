@@ -41,5 +41,5 @@ iperf3 -c 10.41.129.135 -R
 
 
 
-![./img/iperf.png](../../../../WorkNotes/img/iperf.png)
+![./img/iperf.png](./img/iperf.png)
 
